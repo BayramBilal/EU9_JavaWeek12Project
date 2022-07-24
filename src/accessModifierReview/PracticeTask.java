@@ -1,4 +1,4 @@
-package AccessModifierReview;
+package accessModifierReview;
 
 public class PracticeTask {
 }
